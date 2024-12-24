@@ -17,7 +17,12 @@ External component consist of
 
 Jobs consist of
 1. Init database schema & ETL from csv to Postgres
+
+<p align="center"><img src="diagram/diagram-ETL.drawio.png"></p>
+
 2. LLM QnA on Postgres data
+
+<p align="center"><img src="diagram/diagram-LLM.drawio.png"></p>
 
 ## Project setup & testing
 ### Dependency
