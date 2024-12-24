@@ -5,7 +5,7 @@
 ![alt text](diagram/diagram-demo-architechture.drawio.png)
 
 Internal components run on docker (docker-compose). components consist of
-- Jupyter notebook for python code running data pipline
+- Jupyter notebook for python code running data pipeline
 - Postgres for sql database
 
 External component consist of
