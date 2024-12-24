@@ -35,7 +35,7 @@ make local-start
 ```
 
 ### Testing
-1. Go to 
+1. Go to [Jupyter notebook console](http://localhost:8889/lab/workspaces/auto-x/tree/work)
 2. ETL testing by restart & run all `init & ETL.ipynb`. after job done, you can explore data on postgres by get config from `.env` and connect to `localhost`
 3. Dynamic generate answer testing by restart & run all `LLM.ipynb`. after job done, you can explore on your Jupyter notebook console
 
